@@ -1,0 +1,14 @@
+{
+	"name": "atividade3-modulo17",
+	"version": "1.0.0",
+	"private": true,
+	"type": "module",
+    "scripts": {
+    "test": "jest --coverage"
+    },
+	"devDependencies": {
+		"@types/jest": "^30.0.0",
+		"ts-jest": "^29.4.12",
+		"ts-node": "^10.9.2"
+	}
+}
